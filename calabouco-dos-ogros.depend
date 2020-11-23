@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1606141934 source:c:\users\joana\desktop\algprog\trabalho-final\trabalho-final-calaboco-dos-ogros\calabouco-dos-ogros\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<limits.h>
+	<unistd.h>
+	<conio2.h>
+	<string.h>
+	<windows.h>
+	"jogo.h"
+
+1606141010 c:\users\joana\desktop\algprog\trabalho-final\trabalho-final-calaboco-dos-ogros\calabouco-dos-ogros\jogo.h
+
+1606141010 source:c:\users\joana\desktop\algprog\trabalho-final\trabalho-final-calaboco-dos-ogros\calabouco-dos-ogros\main.c
+	<stdio.h>
+	<stdlib.h>
+	"jogo.h"
+
